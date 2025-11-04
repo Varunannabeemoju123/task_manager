@@ -1,0 +1,35 @@
+{
+  "tasks": [
+    {
+      "id": 5,
+      "title": "market",
+      "description": "buy chicken",
+      "status": "Completed"
+    },
+    {
+      "id": 4,
+      "title": "Finish React project",
+      "description": "Implement task manager frontend",
+      "status": "Completed"
+    },
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "description": "Milk, eggs, bread",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "title": "Pay bills",
+      "description": "Electricity bill",
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "title": "Read book",
+      "description": "Finish chapter 4",
+      "status": "Completed"
+    }
+  ],
+  "idCounter": 6
+}
